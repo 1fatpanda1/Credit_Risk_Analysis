@@ -30,4 +30,4 @@ Cluster Centroids had an accuracy of 54.5%, recall 67% high-risk and 42% on low-
 
 Overall there was variations between the model. Depending on which attribute one values the most between sensitivity, accuracy, and recall, different models offer better results. 
 
-Fror this model, Smote had slightly lower accuracy but a much better balance in recall than Naive Random Oversampling
+For this model, Smote had slightly lower accuracy but a much better balance in recall than Naive Random Oversampling. 
